@@ -61,13 +61,11 @@ touch env
 DATABASE_URL=mongodb://localhost:27017/<name_db>
 JWT Configuration
 JWT_SECRET=<my_secret>
-JWT_ALGORITHM=HS256
-Email Service Configuration
 USER_EMAIL=<my_email>
 PASSWORD_APP_EMAIL=<my_password_app_gmail>
 PORT_EMAIL=587
 HOST_EMAIL=smtp.gmail.com
- API Configuration
+API Configuration
 LOCAL_URL=<url_localhost_api>
 ```
 5. **Run the API**
